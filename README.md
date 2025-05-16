@@ -15,4 +15,5 @@
 
 1. **Клонировать репозиторий**:
    ```bash
+   https://github.com/HannaKravchuk/h_w_32_API.git
    cd movie-search-app
